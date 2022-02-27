@@ -7,6 +7,13 @@
      - [jsdelivr](https://cdn.jsdelivr.net/gh/HACKERA316/ablyjsrepo@latest/)
      - [unpkg](unpkg.com/:package@:version/:file)
 
+## how to install (currently under development can't be added yet)
+   1. first add jsdelivr or unpkg library at the end of </body></body> to your website
+   2. then add the jquery library (valid for 1.0.0-beta)
+   3. then write these codes between the <script></script> files you add
+
+----
+
 ## WARNING ABOUT THIS SOFTWARE
 - MISUSE, MODIFICATION, EDITING, COPYING OF THIS SOFTWARE IS PROHIBITED. THE SOFTWARE USED IN THE JS LIBRARY IS ENTIRELY BELONGS TO THE COMPANY OR PERSON THAT DEVELOPED THE SOFTWARE. [HACKER316](https://github.com/HACKERA316) OWNS ONLY DEVELOPING THIS SOFTWARE
 
